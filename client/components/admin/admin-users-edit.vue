@@ -574,6 +574,7 @@ export default {
         { text: '(GMT+03:00) Moscow+00 - Moscow', value: 'Europe/Moscow' },
         { text: '(GMT+03:00) Nairobi', value: 'Africa/Nairobi' },
         { text: '(GMT+03:00) Qatar', value: 'Asia/Qatar' },
+        { text: '(GMT+03:00) Kuwait', value: 'Asia/Kuwait' },
         { text: '(GMT+03:00) Riyadh', value: 'Asia/Riyadh' },
         { text: '(GMT+03:00) Syowa', value: 'Antarctica/Syowa' },
         { text: '(GMT+03:30) Tehran', value: 'Asia/Tehran' },
